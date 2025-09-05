@@ -1,35 +1,14 @@
-# ai-prompt-pack
-200 Proven AI Prompts for Content Creation &amp; Marketing
-# 🚀 200 Proven AI Prompts for Content Creation & Marketing
+# AI Prompt Pack – Landing Page (GitHub Pages)
 
-⚡ Stop wasting hours thinking of ideas — just plug in these **200 done-for-you AI prompts** and watch your content, marketing, and sales take off.
+## Quick Deploy
+1. Create a new GitHub repo (e.g. `ai-prompt-pack`).
+2. Upload all files in this folder to the repo root.
+3. In **Settings → Pages**, set Source to the `main` branch and Folder to `/root`.
+4. Your site will be live at `https://<your-username>.github.io/ai-prompt-pack/`.
 
----
+## Replace These Links in `index.html`
+- `YOUR_FREEBIE_LINK` → your Gumroad or MailerLite freebie URL.
+- `YOUR_FULL_PACK_LINK` → your Gumroad full product URL.
 
-## ✨ What’s Inside
-- Social Media Growth 📱  
-- Ad Copy & Marketing 💸  
-- Content Ideas & Scripts ✍️  
-- Design & Branding 🎨  
-- Business & Productivity 📊  
-
-Each prompt is **long, detailed, and copy-paste ready** → optimized for ChatGPT, Claude, Gemini, or any AI tool.
-
----
-
-## 📂 Files
-- **product/AI_Prompt_Pack_200_Premium.pdf**  
-- **product/Free_AI_Prompts_LeadMagnet.pdf**  
-- **assets/** → Mockups, covers, and previews  
-
----
-
-## 💡 Pricing & Access
-👉 Full 200 Prompt Pack available on Gumroad: [Insert Gumroad Link Here]  
-👉 Get 50 Free Prompts here: [Insert Freebie Link Here]  
-
----
-
-## 🔑 License
-- Personal use only with **Standard Pack**.  
-- Commercial use allowed with **Agency License**.  
+## Assets
+- `assets/freebie-mockup.png` is the hero image.
